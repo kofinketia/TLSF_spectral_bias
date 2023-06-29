@@ -3,8 +3,12 @@ This is the source code for a paper **Exploring Spectral Bias in Time Series Lon
 
 ## Procedure for generating results
 
-This implementation of *DeepAR* is due to **Yunkai Zhang** and **Qiao Jiang** ([repository](https://github.com/zhykoties/TimeSeries)).
-We added the files ``attack.py``, ``attack_plot.py``, and ``attack_utils.py`` to run our attack.
+To obtain the graphs that the result of the spectral bias analysis, run 
+- ``spectral_analysis-real_world_data.ipynb`` to get the results correspong to the *real world data*, 
+- ``spectral_analysis-low_data.ipynb`` to get those corresponding to *low priority frequency data*,
+- ``spectral_analysis-high_data.ipynb`` to get those corresponding to *high priority frequency data*,
+- ``spectral_analysis-eq_data.ipynb`` to get those corresponding to *low priority frequency data*
+
 
 ## Authors
 
