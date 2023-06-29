@@ -9,6 +9,9 @@ We added the files ``attack.py``, ``attack_plot.py``, and ``attack_utils.py`` to
 ## Authors
 
 Kofi Nketia Ackaah-Gyasi
+
 Sergio Valdez
+
 Yifeng Gao
+
 Li Zhang
